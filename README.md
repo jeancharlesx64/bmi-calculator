@@ -13,5 +13,5 @@ BMI calculator created at SPTech School during the algorithms class on April 24,
 
 ## Screenshots
 
-![Captura de tela 1](assets/img/screenshots)
+![Captura de tela 1](tree/main/assets/img/screenshots)
 *Default screen*
