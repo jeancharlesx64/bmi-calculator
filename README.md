@@ -1,7 +1,7 @@
 
 # BMI Calculator - SPTech
 
-BMI calculator created at SPTech School during the algorithms class on April 24, 2024.
+BMI calculator created at SPTech School during the algorithms class on Feb 24, 2024.
 
 ## How to use
 
